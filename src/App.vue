@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="WC DFW Logo" src="https://i0.wp.com/wpdfw.org/wp-content/uploads/2016/10/cropped-wordcamp-logo-2-color-web.png?fit=240%2C159&ssl=1">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
