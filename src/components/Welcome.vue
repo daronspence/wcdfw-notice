@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <h1>Join our Community!</h1>
-    <h2>wpdfw.org</h2>
-    <p>Join our Slack group for help from friendly community members here in DFW.</p>
+    <h2><a href="http://wpdfw.org">wpdfw.org</a></h2>
+    <p>Join our <a href="https://wpdfw.org/">Slack group</a> for help from friendly community members here in DFW.</p>
   </div>
 </template>
 
